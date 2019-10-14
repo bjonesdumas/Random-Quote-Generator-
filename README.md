@@ -1,4 +1,4 @@
-# Random-Quote-Generator-
+# Random Quote Generator
 
 
 
@@ -7,7 +7,7 @@
 
 ## What is this project?
 
-This Random Quote Generator is the first project in the Treehouse Techdegree. Enjoy these quotes from Russian literary giants. The quote generator displays random quotes from a multidemnsional array. The page autorefreshes every 20 seconds with a different background color.
+This Random Quote Generator is the first project in the Treehouse Techdegree. Enjoy these quotes from Russian literary giants. The quote generator displays random quotes from a multidemnsional array. The page auto refreshes every 20 seconds with a different background color.
 
 
 
